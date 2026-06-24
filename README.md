@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner-python-turtle.png" alt="Banner">
+  <img src="imagens/banner-python-turtle.png" alt="Banner">
 </p>
 
 # love-you-python-turtle
